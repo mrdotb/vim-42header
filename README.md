@@ -13,6 +13,13 @@ a (better) vim header for 42 projects
 * Overrides `:Stdheader` for school vim installs
 
 Also, don't forget to set your `$USER` and `$MAIL` variables, marvin lives!
+You can set the variables  in your vimrc
+```
+let g:hdr42mail = "marvin@42.fr"
+let g:hdr42user = "marvin"
+```
+
+
 
 ## Usage 
 
